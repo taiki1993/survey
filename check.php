@@ -50,9 +50,7 @@
 		echo $goiken;
 		echo '』<br />';
 	}
-	/* echo 'ようこそ';
-	echo $nickname;
-	echo '様'; */
+
 
 		
 		/* echo '<a href="index.html">戻る</a>'; */
